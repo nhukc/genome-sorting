@@ -9,7 +9,7 @@ genome sizes in a formatted manner.
 ## Usage
 Clone the repository:
 ```
-git@github.com:nhukc/genome-sorting.git
+git clone git@github.com:nhukc/genome-sorting.git
 cd genome-sorting
 ```
 
